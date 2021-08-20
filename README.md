@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋 My name is Wendy Hachilla 👩‍💻, I'm from Peru-Lima
+✨ I'm Frotend Developer who is paasionate about technology ✨
 
 <!--
 **WendySule/WendySule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
