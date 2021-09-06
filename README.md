@@ -1,4 +1,4 @@
-### Hi 👋 My name is Wendy Hachilla 👩‍💻, I'm from Peru-Lima
+### Hi 👋 My name is Wendy Hachilla 👩‍💻
 ✨ I'm Front-End Developer and I'm passionate about technology ✨
 
 <!--
